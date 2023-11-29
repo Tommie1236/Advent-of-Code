@@ -1,4 +1,4 @@
-# 2015 Day-2
+# Writeup AoC 2015 Day-2
 
 ## Part 1
 ### The question is:
