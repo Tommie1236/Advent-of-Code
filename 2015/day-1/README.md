@@ -1,4 +1,4 @@
-# 2015 Day-1
+# Writeup AoC 2015 Day-1
 
 ## Part 1
 The question is:
