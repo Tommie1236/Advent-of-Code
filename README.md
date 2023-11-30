@@ -10,4 +10,8 @@ I use a file called `input.txt` to store the input data. but you can't share you
   - <a href="2015/day-1">Day-1</a>
   <br>
   - <a href="2015/day-2">Day-2</a>
+  <br>
+  - <a href="2015/day-3">Day-3</a>
+  <br>
+  - <a href="2015/day-4">Day-4</a>
 </details>
