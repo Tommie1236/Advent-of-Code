@@ -23,4 +23,4 @@ I use a file called `input.txt` to store the input data. but you can't share you
 
 
 <br>
-If you have some feedback or something is broken feel free to make a Issue.
+If you have some feedback or something is broken feel free to make a <a href="https://github.com/Tommie1236/Advent-of-Code/issues">issue</a>.
